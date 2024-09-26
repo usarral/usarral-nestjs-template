@@ -1,8 +1,8 @@
 {
-  "name": "lareceta-backend",
+  "name": "usarral-nestjs-template",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "usarral",
   "private": true,
   "type": "module",
   "license": "UNLICENSED",
